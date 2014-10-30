@@ -1,0 +1,2 @@
+c:\users\zahid\documents\visual studio 2012\Projects\ProtectedBasicApp\ProtectedBasicApp\bin\Debug\ProtectedBasicApp.exe.config
+C:\Users\zahid\Desktop\New folder\ProtectedBasicApp\ProtectedBasicApp\bin\Debug\ProtectedBasicApp.exe.config
